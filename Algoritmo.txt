@@ -1,0 +1,18 @@
+Public void main (string args) {
+Scanner n = new Scanner();
+System.out.println('Escreva um numero (insira a quantidade algarismos do seu numero')
+b = n.nextLine();
+System.out.println('Insira o seu numero')
+c = c.nextline();
+for (int i = 0, i = 0, i++) {
+ if (i + b = 1)
+
+return i
+else
+return false
+// nao deu tempo para acabar tudo
+ 
+else
+System.out.println('Numero precisa de ser positivo');
+}
+}
