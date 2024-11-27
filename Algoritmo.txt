@@ -21,3 +21,5 @@ System.out.println('i')
 Statshing é quando queremos mudar de branch mas não queremos fazer commit de coisas inacabadas
 
 H. git stashes "nome do ficheiro"
+
+J. limpa tudo nos ficheiros começados por "d"
