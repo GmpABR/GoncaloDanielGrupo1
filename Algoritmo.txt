@@ -17,3 +17,5 @@ System.out.println('Numero precisa de ser positivo');
 }
 }
 System.out.println('i')
+
+Statshing é quando queremos mudar de branch mas não queremos fazer commit de coisas inacabadas
